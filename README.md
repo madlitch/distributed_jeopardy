@@ -1,5 +1,8 @@
 # Jeopardy
 
+## Description
+A fully async game of Jeopardy using threads with exciting real-time gameplay.
+
 ## Usage
 
 Compile and run JeopardyServer.java. 
