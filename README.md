@@ -1,4 +1,4 @@
-# Jeopardy
+# Distributed Jeopardy
 
 ## Description
 A fully async game of Jeopardy using threads with exciting real-time gameplay.
